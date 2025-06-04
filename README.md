@@ -65,18 +65,24 @@ Build Evident from the source and install dependencies:
    echo 'INSERT-INSTALL-COMMAND-HERE'
 
 ---
+USAGE 
 
-Usage
+# Option 1: Open index.html directly
+open index.html
 
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
+# Option 2: Use VS Code Live Server
+# Right-click index.html and choose "Open with Live Server"
 
 ---
 
 Testing
+Since this is a static HTML project, manual testing can be done as follows:
 
-Evident uses the `{test_framework}` test framework. Run the test suite with:
+# Check responsiveness
+# Use browser dev tools (F12 or right-click → Inspect → Toggle device toolbar)
 
+# Accessibility audit
+# Use Lighthouse in Chrome DevTools
 
-echo 'INSERT-TEST-COMMAND-HERE'
+# Link validation (optional)
+# Use extensions or online tools like W3C Link Checker
