@@ -54,21 +54,15 @@ Build Evident from the source and install dependencies:
 
 1. **Clone the repository:**
 
-   ```bash
    git clone https://github.com/Greyengravings/Evident
-````
 
 2. **Navigate to the project directory:**
 
-   ```bash
    cd Evident
-   ```
 
 3. **Install the dependencies:**
 
-   ```bash
    echo 'INSERT-INSTALL-COMMAND-HERE'
-   ```
 
 ---
 
@@ -86,4 +80,3 @@ Evident uses the `{test_framework}` test framework. Run the test suite with:
 
 
 echo 'INSERT-TEST-COMMAND-HERE'
-
